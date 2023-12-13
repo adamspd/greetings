@@ -1,0 +1,2 @@
+# greetings
+First Go package
